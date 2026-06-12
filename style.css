@@ -1,1 +1,143 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dark Matter Galaxy Rotation Curve Analysis</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="stars"></div>
+
+    <div class="topbar">
+        🌌 DARK MATTER GALAXY ROTATION CURVE ANALYSIS
+    </div>
+
+    <div class="grid">
+
+        <div class="card">
+            <h2>🌌 Galaxy Overview</h2>
+
+            <p><strong>Galaxy Model:</strong> NGC 3198 Inspired</p>
+            <p><strong>Radius Range:</strong> 1–15 kpc</p>
+            <p><strong>Maximum Velocity:</strong> 211 km/s</p>
+            <p><strong>Analysis Type:</strong> Rotation Curve Investigation</p>
+        </div>
+
+        <div class="card">
+            <h2>📊 Key Findings</h2>
+
+            <p>⭐ Velocity remains nearly constant at large radii</p>
+            <p>📈 Observed motion exceeds Newtonian predictions</p>
+            <p>🌑 Evidence suggests additional unseen mass</p>
+            <p>🔭 Supports the dark matter hypothesis</p>
+        </div>
+
+        <div class="card">
+            <h2>📈 Galaxy Rotation Curve</h2>
+
+            <img src="images/rotation_curve.png" alt="Galaxy Rotation Curve">
+
+            <p>
+                Observed stellar velocity increases rapidly near
+                the galactic center and remains approximately
+                constant at larger distances.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>⚖️ Expected vs Observed Velocity</h2>
+
+            <img src="images/dark_matter_comparison.png" alt="Dark Matter Comparison">
+
+            <p>
+                Newtonian gravity predicts declining velocity,
+                while observations show a nearly flat rotation curve.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>🌑 Inferred Mass Distribution</h2>
+
+            <img src="images/mass_distribution.png" alt="Mass Distribution">
+
+            <p>
+                The inferred mass continues increasing with radius,
+                indicating the presence of unseen matter.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>📚 Scientific Background</h2>
+
+            <p>
+                Dark matter is an invisible form of matter that does
+                not emit, absorb, or reflect light.
+            </p>
+
+            <p>
+                Its existence is inferred from gravitational effects
+                observed in galaxies and galaxy clusters.
+            </p>
+        </div>
+
+        <div class="card wide">
+            <h2>🧠 Scientific Conclusion</h2>
+
+            <p>
+                This project investigates galaxy rotation curves,
+                one of the strongest observational arguments for
+                dark matter in modern astrophysics.
+            </p>
+
+            <p>
+                Observed stellar velocities remain approximately
+                constant at large galactic radii rather than
+                decreasing according to classical Newtonian
+                predictions.
+            </p>
+
+            <p>
+                The discrepancy between predicted and observed
+                velocities suggests the presence of additional
+                mass that cannot be directly observed.
+            </p>
+
+            <p>
+                This unseen component is commonly referred to as
+                dark matter and is believed to account for a
+                substantial fraction of the total mass of galaxies.
+            </p>
+
+            <p>
+                The analysis reproduces the fundamental evidence
+                supporting the dark matter hypothesis and highlights
+                one of the most important unsolved problems in
+                modern astronomy.
+            </p>
+        </div>
+
+        <div class="card wide">
+            <h2>🚀 Future Work</h2>
+
+            <ul>
+                <li>Use real galaxy rotation curve datasets</li>
+                <li>Compare multiple galaxy types</li>
+                <li>Model dark matter halo profiles</li>
+                <li>Investigate alternative gravity theories</li>
+                <li>Create interactive rotation curve visualizations</li>
+                <li>Extend analysis to galaxy clusters</li>
+            </ul>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
